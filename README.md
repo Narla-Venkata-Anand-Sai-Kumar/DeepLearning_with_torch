@@ -19,7 +19,7 @@ In this repository, you will find notebooks and code examples covering a wide ra
 
 Before you begin, ensure you have met the following requirements:
 
-- Python 3.6+
+- Python 3.9+
 - PyTorch (Install it using `pip install torch`)
 - Jupyter Notebook (Install it using `pip install jupyter`)
 
